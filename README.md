@@ -10,10 +10,10 @@ Projeto aplicativo de desenho desenvolvido em C#
 ![W](https://github.com/MatheusAlvarez/Paint/blob/main/_assets/paint.png)
 
 
-# Tecnologia utilizada
+## Tecnologia utilizada
 - C#
 
-# Autor
+## Autor
 
 Matheus Maia Alvarez
 
