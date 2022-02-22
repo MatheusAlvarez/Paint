@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Projeto aplicativo de desenho desenvolvido em C#
+Projeto aplicativo de desenho desenvolvido em C# inspirado no Paint
 
 ## Layout 
 ![W](https://github.com/MatheusAlvarez/Paint/blob/main/_assets/paint.png)
