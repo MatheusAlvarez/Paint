@@ -4,6 +4,8 @@
 
 ## Sobre o projeto
 
+testear: https://github.com/MatheusAlvarez/Paint/blob/main/Paint/Paint.exe
+
 Projeto aplicativo de desenho desenvolvido em C# inspirado no Paint
 
 ## Layout 
