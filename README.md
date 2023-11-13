@@ -55,7 +55,7 @@ Apresento um projeto desenvolvido em C# que simula as funcionalidades do aplicat
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com).
-Além disto é bom ter um editor para trabalhar com o código como [Visuatl Studio](https://learn.microsoft.com/pt-br/visualstudio/windows/?view=vs-2022)
+Além disto é bom ter um editor para trabalhar com o código como [Visual Studio](https://learn.microsoft.com/pt-br/visualstudio/windows/?view=vs-2022)
 
 ---
 
